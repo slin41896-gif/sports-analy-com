@@ -1,0 +1,32 @@
+/* crimson-white — 玫瑰紅×白 | 熱情現代（明亮版）*/
+:root {
+  --clr-accent:         #e11d48;
+  --clr-accent-dark:    #be123c;
+  --clr-accent-light:   #fb7185;
+  --clr-accent-glow:    rgba(225,29,72,.25);
+  --clr-accent-faint:   rgba(225,29,72,.07);
+
+  --clr-bg:             #ffffff;
+  --clr-bg-alt:         #fff1f5;
+  --clr-bg-dark:        #1f2937;
+  --clr-bg-dark2:       #374151;
+
+  --clr-text:           #1f2937;
+  --clr-text-muted:     #6b7280;
+  --clr-text-inv:       #fff1f5;
+  --clr-text-inv-muted: rgba(255,241,245,.70);
+
+  --clr-border:         #fecdd3;
+  --clr-border-dark:    rgba(225,29,72,.18);
+
+  --clr-tag-1:          #e11d48;
+  --clr-tag-2:          #d97706;
+  --clr-tag-3:          #7c3aed;
+  --clr-tag-4:          #0891b2;
+  --clr-tag-5:          #059669;
+
+  --clr-hero-overlay:   linear-gradient(0deg, rgba(31,41,55,.95) 0%, rgba(31,41,55,.50) 55%, rgba(31,41,55,.10) 100%);
+  --clr-shadow:         0 1px 4px rgba(225,29,72,.10), 0 1px 2px rgba(0,0,0,.04);
+  --clr-shadow-md:      0 4px 16px rgba(225,29,72,.16), 0 2px 4px rgba(0,0,0,.05);
+  --clr-shadow-accent:  0 6px 24px rgba(225,29,72,.30);
+}
