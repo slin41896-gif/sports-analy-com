@@ -6,4 +6,12 @@
   <url><loc>https://sports-analy.com/contact</loc><lastmod>2026-05-27</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://sports-analy.com/privacy</loc><lastmod>2026-05-27</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://sports-analy.com/terms</loc><lastmod>2026-05-27</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+
+  <url>
+    <loc>https://matchvangtage.com/blog/article</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
