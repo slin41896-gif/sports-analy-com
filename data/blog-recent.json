@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "nba-handicap-betting-mechanism-guide",
+      "title": "NBA讓分投注機制解析：運作原理與賠率結構深度研究",
+      "category": "undefined",
+      "date": "2026-05-31",
+      "excerpt": "每次睇NBA，見到讓分盤都好似有層霧咁？唔使驚，今日我哋一齊揭開佢神秘面紗，包你睇完即刻明白晒！",
+      "imageUrl": "https://pixabay.com/get/g9afa0b232511c1f7f2f0b5d667f0b6ed54fb99a126556b4614d7f478e843aabae810cd363235ba987e1d38b6028e515d0ac8e70bc4f1740a5b61561286181c8b_640.jpg"
+    },
+    {
       "slug": "basketball-over-under-betting-guide",
       "title": "籃球大小球投注完整攻略：規則解析、盤口類型與實戰策略研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "每次見到足球賠率上上落落，你係咪都好奇背後有咩玄機？今日我哋一齊揭開呢個秘密！",
       "imageUrl": "https://pixabay.com/get/g3691c6d5495eb92f6f4bb3534645ee4d7edf32d2e16044ae4f31070ca91e9bc0139ee5bbb0d49c24ce43913cd469faae713816d00042b72919c29302f566b1f7_640.jpg"
-    },
-    {
-      "slug": "pre-match-handicap-trend-analysis-strategy",
-      "title": "賽前讓球走勢分析方法：從數據模型到市場信號的系統性研究",
-      "category": "undefined",
-      "date": "2026-05-30",
-      "excerpt": "每次開波前，我都好緊張讓球盤口點走。想知點樣捉實佢嘅走勢，贏多啲？今日就同大家拆解！",
-      "imageUrl": "https://pixabay.com/get/g94fc078f3afb6d3d7eea0af62b68dcd81ff1cd2af96ec1de6ef1173dbf83e18e3deabb40e97ef89de2de563f86e66f0da5b42ae5e8a32a4696dc4e9709092a8f_640.jpg"
     }
   ]
 }
