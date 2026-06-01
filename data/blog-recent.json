@@ -1,6 +1,14 @@
 {
   "articles": [
     {
+      "slug": "esports-vs-traditional-sports-betting-differences",
+      "title": "電競投注與傳統體育博彩之核心差異：機制、市場與風險的比較研究",
+      "category": "undefined",
+      "date": "2026-06-01",
+      "excerpt": "作為一個資深玩家，我哋都想知，究竟電競同傳統體育博彩，玩落有幾大分別？點樣先可以玩得精明？",
+      "imageUrl": "https://pixabay.com/get/g6968d1acf491b4c02263f675ef0e6e93955f3ddedc750d0290843becf573ccf8a03adb5962b4adae548997694089448ec8d1a7d3d4108bdf6199a30ecccb7eb8_640.jpg"
+    },
+    {
       "slug": "nba-handicap-betting-mechanism-guide",
       "title": "NBA讓分投注機制解析：運作原理與賠率結構深度研究",
       "category": "undefined",
@@ -15,14 +23,6 @@
       "date": "2026-05-31",
       "excerpt": "講起籃球投注，大小球絕對係最刺激又最考眼光嘅玩法！我哋班專家今日就同大家拆解，點樣可以做到真正嘅「睇波又贏錢」。",
       "imageUrl": "https://pixabay.com/get/gaa6d15d658b6a017ea417bc292ae9e374ae7de8c9a2984f516cd1f41479e858d22fe7658ea83e48dfa37c8c0259df765_640.jpg"
-    },
-    {
-      "slug": "football-odds-fluctuation-market-signals-analysis",
-      "title": "足球賠率波動的市場信號解析：投注行為、資金流向與風險評估研究",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "每次見到足球賠率上上落落，你係咪都好奇背後有咩玄機？今日我哋一齊揭開呢個秘密！",
-      "imageUrl": "https://pixabay.com/get/g3691c6d5495eb92f6f4bb3534645ee4d7edf32d2e16044ae4f31070ca91e9bc0139ee5bbb0d49c24ce43913cd469faae713816d00042b72919c29302f566b1f7_640.jpg"
     }
   ]
 }
