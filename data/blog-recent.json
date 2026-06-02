@@ -1,28 +1,28 @@
 {
   "articles": [
     {
+      "slug": "sports-betting-stop-loss-strategy",
+      "title": "體育投注停損機制的建立策略：資金管理與風險控制的實證分析",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "講到體育投注，我哋最驚就係一時衝動輸清光。今日我就想同大家分享下，點樣設立一個有效嘅停損機制，幫你保住荷包！",
+      "imageUrl": "https://pixabay.com/get/g16a4c1f498afb6d42b40233523f521a8842e21d59ceb0ee155f898d4c07b83f56abd48af06b2e0cdcc6dc837d4b2172ce1a37469d5cb34148407c2fd6f51a405_640.jpg"
+    },
+    {
+      "slug": "kelly-criterion-sports-betting-strategy",
+      "title": "凱利公式於體育投注中的應用原理與資金管理策略研究",
+      "category": "undefined",
+      "date": "2026-06-02",
+      "excerpt": "每次落注都好似一場心理戰，點樣用科學方法計算最佳投注額，真係令我好想知！",
+      "imageUrl": "https://pixabay.com/get/g0e47a54cfebe958a4129c0e0df853f136578dd2b3d7e1d84a5534e8e5e8e560ae49d9f23ca74b8b5fdc7b1ab9d84a5a377e9c9a147ce87cfa561e3d2b4684150_640.jpg"
+    },
+    {
       "slug": "cs2-esports-team-analysis-betting-strategy",
       "title": "CS2電競投注隊伍分析方法：從數據指標到戰術體系的系統性研究框架",
       "category": "undefined",
       "date": "2026-06-01",
       "excerpt": "講到CS2電競投注，我哋唔係靠估㗎！要贏錢，最緊要係識得點樣拆解隊伍，數據分析就係你嘅最強武器。",
       "imageUrl": "https://pixabay.com/get/gd79cf41579b9fc7cd8103aa2cda376ef317897b40bd647288f129d43a970d78fd74e680360840a9e1869c1f18c3b59a79b5226b4bbe571a57e3a748dabfd06ec_640.jpg"
-    },
-    {
-      "slug": "esports-vs-traditional-sports-betting-differences",
-      "title": "電競投注與傳統體育博彩之核心差異：機制、市場與風險的比較研究",
-      "category": "undefined",
-      "date": "2026-06-01",
-      "excerpt": "作為一個資深玩家，我哋都想知，究竟電競同傳統體育博彩，玩落有幾大分別？點樣先可以玩得精明？",
-      "imageUrl": "https://pixabay.com/get/g6968d1acf491b4c02263f675ef0e6e93955f3ddedc750d0290843becf573ccf8a03adb5962b4adae548997694089448ec8d1a7d3d4108bdf6199a30ecccb7eb8_640.jpg"
-    },
-    {
-      "slug": "nba-handicap-betting-mechanism-guide",
-      "title": "NBA讓分投注機制解析：運作原理與賠率結構深度研究",
-      "category": "undefined",
-      "date": "2026-05-31",
-      "excerpt": "每次睇NBA，見到讓分盤都好似有層霧咁？唔使驚，今日我哋一齊揭開佢神秘面紗，包你睇完即刻明白晒！",
-      "imageUrl": "https://pixabay.com/get/g9afa0b232511c1f7f2f0b5d667f0b6ed54fb99a126556b4614d7f478e843aabae810cd363235ba987e1d38b6028e515d0ac8e70bc4f1740a5b61561286181c8b_640.jpg"
     }
   ]
 }

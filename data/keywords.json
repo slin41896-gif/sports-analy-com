@@ -105,8 +105,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "kelly criterion formula mathematics betting",
-      "status": "available",
-      "writing_style": "公式拆解+計算範例，1300字"
+      "status": "used",
+      "writing_style": "公式拆解+計算範例，1300字",
+      "slug": "kelly-criterion-sports-betting-strategy",
+      "used_date": "2026-06-02"
     },
     {
       "id": 11,
@@ -114,8 +116,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "stop loss strategy sports betting bankroll",
-      "status": "available",
-      "writing_style": "風險管理框架，含百分比建議，1100字"
+      "status": "used",
+      "writing_style": "風險管理框架，含百分比建議，1100字",
+      "slug": "sports-betting-stop-loss-strategy",
+      "used_date": "2026-06-02"
     },
     {
       "id": 12,
