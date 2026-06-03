@@ -127,8 +127,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "beginner sports betting guide choose sport",
-      "status": "available",
-      "writing_style": "推薦清單+理由，親和語氣，1000字"
+      "status": "used",
+      "writing_style": "推薦清單+理由，親和語氣，1000字",
+      "slug": "sports-betting-beginner-football-basketball-analysis",
+      "used_date": "2026-06-02"
     },
     {
       "id": 13,
@@ -136,8 +138,10 @@
       "category": "足球投注",
       "angle": "疑問句型",
       "image_theme": "tennis betting analysis grand slam",
-      "status": "available",
-      "writing_style": "技術分析，含盤口解讀技巧，1100字"
+      "status": "used",
+      "writing_style": "技術分析，含盤口解讀技巧，1100字",
+      "slug": "tennis-odds-analysis-strategy",
+      "used_date": "2026-06-03"
     },
     {
       "id": 14,
@@ -145,8 +149,10 @@
       "category": "通用策略",
       "angle": "疑問句型",
       "image_theme": "player injury news betting strategy adjust",
-      "status": "available",
-      "writing_style": "實戰技巧，含案例分析，1200字"
+      "status": "used",
+      "writing_style": "實戰技巧，含案例分析，1200字",
+      "slug": "injury-info-betting-strategy-analysis",
+      "used_date": "2026-06-03"
     },
     {
       "id": 15,
